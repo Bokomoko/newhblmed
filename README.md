@@ -3,6 +3,9 @@
 ## Visão Geral
 Projeto para consolidar e modernizar os serviços de infraestrutura do HBLMED.com.br, incluindo hospedagem do site, serviços de email, backup na nuvem e segurança de rede.
 
+📊 [Ver Justificativas e Análise de Custos](./docs/justificativas.md)
+📋 [Acompanhamento do Projeto](./docs/acompanhamento.md)
+
 ## Escopo do Projeto
 
 ### Gestão do Website
